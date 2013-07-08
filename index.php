@@ -17,5 +17,6 @@
 	wp_footer();
 	
 ?>
+Hello.
 </body>
 </html>
