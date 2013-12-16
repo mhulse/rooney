@@ -1,4 +1,4 @@
-[![Ed Rooney](screenshot.gif)](http://youtu.be/wKTKqP7Qg4s)
+[![Ed Rooney](screenshot.png)](http://youtu.be/wKTKqP7Qg4s)
 **I did not achieve this position in life by having some snot-nosed punk leave my cheese out in the wind.**
 
 ---
